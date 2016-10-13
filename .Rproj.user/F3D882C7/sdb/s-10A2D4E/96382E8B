@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# crm.csvh example -- <new data set name with headers> = crm.csvh(\"filename\")\n\n\ncrm.csvh = function(filename){\n  read.table(filename, header=T, sep=\",\")\n}\n\n",
+    "created" : 1476336952720.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4243818045",
+    "id" : "96382E8B",
+    "lastKnownWriteTime" : 1476336645,
+    "last_content_update" : 1476336645,
+    "path" : "C:/Users/1995a/Desktop/CRM/crmpet/R/crm.csvh.R",
+    "project_path" : "R/crm.csvh.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

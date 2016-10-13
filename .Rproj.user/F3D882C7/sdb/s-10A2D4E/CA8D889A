@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# crm.csv example -- <new data set name without headers> = crm.csv(\"filename\")\n\ncrm.csv = function(filename){\n  read.table(filename, header=F, sep=\",\")\n}\n",
+    "created" : 1476342000672.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2840339885",
+    "id" : "CA8D889A",
+    "lastKnownWriteTime" : 1476336714,
+    "last_content_update" : 1476336714,
+    "path" : "C:/Users/1995a/Desktop/CRM/crmpet/R/crm.csv.R",
+    "project_path" : "R/crm.csv.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
